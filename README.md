@@ -22,17 +22,24 @@ Bachelor of Science, Biochemistry and Molecular Biology, Summa Cum Laude
 Stanford University, Department of Neurosurgery (2024 - 2025)
 ```
 •	Computational Optimization: Developed a Python package for automated signal detection and classification, reducing analysis time by 90%. 
+
 •	High-Throughput Electrophysiology: Optimized experimental workflows to complete 45+ long-term recordings within a 2-week window. 
+
 •	Mechanism Discovery: Identified a rapid synaptic adaptation mechanism linked to learning and memory disorders. 
+
 •	Theoretical Modeling: Generated novel hypotheses to resolve standing inconsistencies in endocannabinoid-dependent signaling. 
+
 
 
 ```
 Stanford University, Department of Neurology (2022 - 2024)
 ```
 •	Software Integration: Engineered MATLAB software for image processing and signal detection from scratch in one month. 
+
 •	Technical Leadership: Directed an intensive electrophysiology training program for 15 graduate students. 
+
 •	Discovery: Identified regional cAMP oscillations in the thalamus, providing new insights into sleep and seizure mechanisms. 
+
 •	Precision Assays: Validated high-precision patch-clamp assays and implemented genetically encoded biosensors for real-time neuromodulator visualization
 
 
@@ -40,6 +47,7 @@ Stanford University, Department of Neurology (2022 - 2024)
 University of California Davis, Department of Chemistry (2018 - 2021)
 ```
 •	Drug Discovery: Validated a novel fluorescent probe to visualize LSD target-receptor interactions in live cells. 
+
 •	Behavioral Pharmacology: Discovered potentiation of behaviors elicited by serotonergic agonists through systemic opioid administration. 
 
 **RESEARCH TECHNIQUES**
