@@ -7,19 +7,17 @@
 ```
 Stanford University 2025
 Master of Science, Neurosciences
-```
-```
+
 Cold Spring Harbor Laboratory 2023
 Certificate, Ion Channels
-```
-```
+
 University of California, Davis 2021
 Bachelor of Science, Biochemistry and Molecular Biology, Summa Cum Laude
 ```
 **RESEARCH EXPERIENCE**
 
 ```
-**Stanford University, Department of Neurosurgery (2024 - 2025)**
+Stanford University, Department of Neurosurgery (2024 - 2025)
 
 •	Computational Optimization: Developed a Python package for automated signal detection and classification, reducing analysis time by 90%. 
 
@@ -31,7 +29,7 @@ Bachelor of Science, Biochemistry and Molecular Biology, Summa Cum Laude
 ```
 
 ```
-**Stanford University, Department of Neurology (2022 - 2024)**
+Stanford University, Department of Neurology (2022 - 2024)
 
 •	Software Integration: Engineered MATLAB software for image processing and signal detection from scratch in one month. 
 
@@ -43,7 +41,7 @@ Bachelor of Science, Biochemistry and Molecular Biology, Summa Cum Laude
 ```
 
 ```
-**University of California Davis, Department of Chemistry (2018 - 2021)**
+University of California Davis, Department of Chemistry (2018 - 2021)
 
 •	Drug Discovery: Validated a novel fluorescent probe to visualize LSD target-receptor interactions in live cells. 
 
@@ -53,12 +51,13 @@ Bachelor of Science, Biochemistry and Molecular Biology, Summa Cum Laude
 **RESEARCH TECHNIQUES**
 
 ```
-Data Analysis : Python, R, MATLAB, Image J, JMP,
-Prism / Graphpad, Adobe Illustrator, Microsoft Office,
-Apple iWork, Anaconda Navigator, Clampex / Clampfit
+Data Analysis : 
+Python, R, MATLAB, Image J, JMP,
+Prism / Graphpad, Adobe Illustrator, Anaconda Navigator, Clampex / Clampfit
 ```
 ```
-Molecular Biology: PCR, ddPCR, SDS-PAGE, co-IP,
+Molecular Biology: 
+PCR, ddPCR, SDS-PAGE, co-IP,
 Western blotting, DNA extraction, RNA extraction,
 tissue culture (primary neuronal culture, HEK293),
 electroporation, transfection, high-throughput assay
@@ -66,14 +65,16 @@ development (neuronal morphology, BRET / FRET,
 MTT), immunocytochemistry, UV-Vis spectroscopy
 ```
 ```
-Neuroscience: Patch-clamp electrophysiology,
+Neuroscience: 
+Patch-clamp electrophysiology,
 stereotactic surgery, fiber photometry, optogenetics,
 EEG, signal detection, rodent behavior (forced swim
 test, open field, head-twitch response),
 immunohistochemistry
 ```
 ```
-Microscopy: fluorescence, confocal, high-content
+Microscopy: 
+fluorescence, confocal, high-content
 screening (CX7), DIC
 ```
 
