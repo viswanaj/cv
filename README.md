@@ -1,6 +1,7 @@
 # Jayashri Viswanathan
 
 +1 (510) 402 - 7134 | viswanaj@gmail.com | https://www.linkedin.com/in/viswanaj/
+
 **EDUCATION**
 
 ```
