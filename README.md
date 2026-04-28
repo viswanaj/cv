@@ -19,8 +19,8 @@ Bachelor of Science, Biochemistry and Molecular Biology, Summa Cum Laude
 **RESEARCH EXPERIENCE**
 
 ```
-Stanford University, Department of Neurosurgery (2024 - 2025)
-```
+**Stanford University, Department of Neurosurgery (2024 - 2025)**
+
 •	Computational Optimization: Developed a Python package for automated signal detection and classification, reducing analysis time by 90%. 
 
 •	High-Throughput Electrophysiology: Optimized experimental workflows to complete 45+ long-term recordings within a 2-week window. 
@@ -29,11 +29,11 @@ Stanford University, Department of Neurosurgery (2024 - 2025)
 
 •	Theoretical Modeling: Generated novel hypotheses to resolve standing inconsistencies in endocannabinoid-dependent signaling. 
 
-
+```
 
 ```
-Stanford University, Department of Neurology (2022 - 2024)
-```
+**Stanford University, Department of Neurology (2022 - 2024)**
+
 •	Software Integration: Engineered MATLAB software for image processing and signal detection from scratch in one month. 
 
 •	Technical Leadership: Directed an intensive electrophysiology training program for 15 graduate students. 
@@ -41,7 +41,7 @@ Stanford University, Department of Neurology (2022 - 2024)
 •	Discovery: Identified regional cAMP oscillations in the thalamus, providing new insights into sleep and seizure mechanisms. 
 
 •	Precision Assays: Validated high-precision patch-clamp assays and implemented genetically encoded biosensors for real-time neuromodulator visualization
-
+```
 
 ```
 University of California Davis, Department of Chemistry (2018 - 2021)
