@@ -28,7 +28,6 @@ Bachelor of Science, Biochemistry and Molecular Biology, Summa Cum Laude
 •	Mechanism Discovery: Identified a rapid synaptic adaptation mechanism linked to learning and memory disorders. 
 
 •	Theoretical Modeling: Generated novel hypotheses to resolve standing inconsistencies in endocannabinoid-dependent signaling. 
-
 ```
 
 ```
@@ -44,11 +43,12 @@ Bachelor of Science, Biochemistry and Molecular Biology, Summa Cum Laude
 ```
 
 ```
-University of California Davis, Department of Chemistry (2018 - 2021)
-```
+**University of California Davis, Department of Chemistry (2018 - 2021)**
+
 •	Drug Discovery: Validated a novel fluorescent probe to visualize LSD target-receptor interactions in live cells. 
 
-•	Behavioral Pharmacology: Discovered potentiation of behaviors elicited by serotonergic agonists through systemic opioid administration. 
+•	Behavioral Pharmacology: Discovered potentiation of behaviors elicited by serotonergic agonists through systemic opioid administration.
+```
 
 **RESEARCH TECHNIQUES**
 
